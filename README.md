@@ -1,6 +1,6 @@
 # RANDTEST
 
-A simple suit of randomness tests for bit sequences, licensed under a BSD 3 clause style license (check LICENSE file).
+A simple suit of randomness tests for bit sequences, licensed under a BSD 3 clause style license (check LICENSE.md file).
 
 ## Operation
 

@@ -14,6 +14,6 @@ The sequence file is mandatory; if no report file is given, the report is printe
 
 ## Additional Comments
 
-This might need some work still. I think it works OK for not very long sequences. Take in mind that it will take some time for moderately long sequences.
+This might need some work still; I think it works OK for short sequences. Take in mind that it will take some time for moderately long sequences.
 
 If you want to find more about randomness testing please read ["Handbook of Applied Cryptography" by Menezes, Van Oorschot, and Vanstone](http://cacr.uwaterloo.ca/hac/)

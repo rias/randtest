@@ -8,6 +8,9 @@
 	
 	See LICENSE.md file for details.
 
+	*Some of the tests are implemented from
+	Handbook of Applied Cryptography, Alfred Menezes et al. 
+	http://cacr.uwaterloo.ca/hac/
 */
 
 
